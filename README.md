@@ -39,10 +39,10 @@ graph TD
     C --> E[Uploaded Objects]
 ```
 
-🛠 2. Serverless Lambda & DynamoDB CRUD Operations 🔥
+## 🛠 2. Serverless Lambda & DynamoDB CRUD Operations 🔥
 This project explores how to implement a serverless architecture using AWS Lambda and DynamoDB for CRUD operations. No EC2 instances required—just Lambda functions, DynamoDB, and API Gateway.
 
-📈 Key Features:
+## 📈 Key Features:
 CRUD operations via AWS Lambda
 Data storage in DynamoDB
 API Gateway for serverless API access
@@ -53,10 +53,10 @@ graph LR
     C --> D[CRUD Operations]
 ```
 
-🌍 3. EC2 Web App Deployment with Load Balancer 🌐
+## 🌍 3. EC2 Web App Deployment with Load Balancer 🌐
 In this project, I deployed a web app on EC2 instances behind an Elastic Load Balancer (ELB). This setup ensures scalability and high availability for the web app.
 
-📈 Key Features:
+## 📈 Key Features:
 EC2 web app deployment
 Load Balancer for traffic distribution
 Auto-scaling for high availability
@@ -68,10 +68,10 @@ graph TB
     C --> D[User Traffic]
 ```
 
-🌐 4. S3 Static Website Hosting 🌟
+## 🌐 4. S3 Static Website Hosting 🌟
 I explored hosting a static website on S3 using bucket policies and CloudFront to serve content securely. A simple and scalable solution for hosting static sites.
 
-📈 Key Features:
+## 📈 Key Features:
 Static website hosted on S3
 CloudFront for global content delivery
 Simple configuration for scalability
@@ -83,10 +83,10 @@ graph TB
 ```
 
 
-🔐 5. VPC Peering & Private Network Communication 🌍
+## 🔐 5. VPC Peering & Private Network Communication 🌍
 In this project, I set up VPC peering to enable secure and private communication between two VPCs in the same or different regions.
 
-📈 Key Features:
+## 📈 Key Features:
 VPC Peering for secure network communication
 No public internet access
 Encrypted communication across private networks
@@ -98,18 +98,19 @@ graph LR
     C --> D[Private Resources]
 ```
 
-💡 Why AWS?
+## 💡 Why AWS?
 Scalability: AWS services scale automatically with your needs.
 Security: With tools like IAM, VPC, and encryption, your applications are safe and secure.
 Cost-Effective: Pay-as-you-go pricing ensures you only pay for what you use.
 🔍 Learn More 🧠
 Feel free to dive deeper into each project for step-by-step instructions, code snippets, and more. If you're interested in collaborating or have any questions, Contact Me! Let’s explore the cloud together! 🌥
 
-💬 Get in Touch 📬
+## 💬 Get in Touch 📬
+
 LinkedIn: @BrianKimemia
 GitHub: briankimemia
 Website: briankimemia.vercel.app
-🔧 Tools & Technologies Used:
+## 🔧 Tools & Technologies Used:
 Amazon EC2 (Elastic Compute Cloud)
 Amazon S3 (Simple Storage Service)
 AWS Lambda
@@ -118,7 +119,7 @@ Amazon DynamoDB
 Elastic Load Balancer (ELB)
 AWS CloudFormation
 AWS CLI
-✨ Conclusion
+## ✨ Conclusion
 Thanks for exploring my AWS projects! With each project, I’ve gained deeper insights into cloud infrastructure, serverless architecture, and secure networking. AWS is a powerful platform that empowers developers to build scalable and resilient solutions.
 
 Let’s build the future of cloud computing together! 🚀🌟
